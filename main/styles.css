@@ -12,7 +12,9 @@ body {
     background-image: url(/Assets/4302029.jpg);
     background-size: cover;
     background-position: center;
+    font-size: 1.5rem;
 }
+
 
 li {
   list-style: none;
@@ -21,7 +23,7 @@ li {
 a {
   text-decoration: none;
   color: aliceblue;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 a:hover {
   color: mediumspringgreen;
